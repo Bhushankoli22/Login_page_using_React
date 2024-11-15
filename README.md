@@ -1,1 +1,1 @@
-This is the basic Login Page which I had created using concepts of States and props of ReactJS. In Second phase i need to add a databse for matching users credentials.
+This is the basic Login Page which I had created using concepts of States and props of ReactJS. In Second phase i will need to add a database for matching users credentials from local database using MySQL and use Python as a backend.
